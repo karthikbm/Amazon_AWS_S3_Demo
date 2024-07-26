@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="ConnectorServices:AWS_V4_AccessKey_Get_S3_Bucket_Details" connectorServiceName="ConnectorServices:AWS_V4_AccessKey_Get_S3_Bucket_Details"/>
+            <keyDetails collectionKey="ConnectorServices:AWS_V4_AccessKey_Get_S3_Buckets" connectorServiceName="ConnectorServices:AWS_V4_AccessKey_Get_S3_Buckets"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
